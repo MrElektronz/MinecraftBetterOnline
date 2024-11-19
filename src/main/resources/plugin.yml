@@ -1,0 +1,4 @@
+name: OnlineVanilla
+version: '1.0-SNAPSHOT'
+main: com.mrelektronz.onlinevanilla.OnlineVanilla
+api-version: '1.21'
